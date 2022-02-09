@@ -226,6 +226,8 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 510px;
+    overflow-y: auto;
 }
 
 .task-element {
